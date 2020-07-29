@@ -1,0 +1,466 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6.5 virtualenv at ~/workspaces/venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="$USER_HOME$/workspaces/venv/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/workspaces/venv/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/workspaces/venv/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/workspaces/venv/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-414544860" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.5 virtualenv at ~/workspace/test_dp" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="$USER_HOME$/workspace/test_dp/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/workspace/test_dp/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/workspace/test_dp/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/workspace/test_dp/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/workspace/test_dp/lib/python3.6/site-packages/superset-0.22.0-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-566451168" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.5 (/usr/local/bin/python3.6)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="/usr/local/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1199943127" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.4 (ssh://master@10.8.8.111:22/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="ssh://master@10.8.8.111:22/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/807636824/1646052553" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/807636824/1095421043" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/807636824/-443519507" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/807636824/764490735" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/807636824" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="10.8.8.111" PORT="22" USERNAME="master" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/bin/python3" HELPERS_PATH="/home/master/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.4">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/807636824/1646052553" remote-root="/usr/lib64/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/807636824/1095421043" remote-root="/home/master/.local/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/807636824/-443519507" remote-root="/usr/lib64/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/807636824/764490735" remote-root="/usr/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.4 (sftp://master@10.8.8.111:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="sftp://master@10.8.8.111:22/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1408907530/1646052553" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1408907530/1095421043" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1408907530/-443519507" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1408907530/764490735" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1408907530" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="2583e6c5-2021-4ba9-867f-154d6d09f596" WEB_SERVER_CONFIG_NAME="server_111" WEB_SERVER_CREDENTIALS_ID="sftp://master@10.8.8.111:22" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="/home/master/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.4">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1408907530/1646052553" remote-root="/usr/lib64/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1408907530/1095421043" remote-root="/home/master/.local/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1408907530/-443519507" remote-root="/usr/lib64/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1408907530/764490735" remote-root="/usr/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.4 (ssh://master@10.8.8.111:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="ssh://master@10.8.8.111:22/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-902494499/1646052553" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-902494499/1095421043" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-902494499/-443519507" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-902494499/764490735" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-902494499" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="10.8.8.111" PORT="22" USERNAME="master" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="/home/master/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.4">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-902494499/1646052553" remote-root="/usr/lib64/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-902494499/1095421043" remote-root="/home/master/.local/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-902494499/-443519507" remote-root="/usr/lib64/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-902494499/764490735" remote-root="/usr/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-10.0.1-py2.7.egg" />
+            <root type="simple" url="jar:///Library/Python/2.7/site-packages/virtualenvwrapper-4.8.2-py2.7.egg!/" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/stevedore-1.28.0-py2.7.egg" />
+            <root type="simple" url="jar:///Library/Python/2.7/site-packages/virtualenv_clone-0.3.0-py2.7.egg!/" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/348993582" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.5 virtualenv at ~/workspace/micro_service" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="$USER_HOME$/workspace/micro_service/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/workspace/micro_service/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/workspace/micro_service/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/workspace/micro_service/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-86592481" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.5 virtualenv at ~/workspace/django_test" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="$USER_HOME$/workspace/django_test/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/workspace/django_test/lib/python3.6/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/workspace/django_test/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/workspace/django_test/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/1311843683" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.5 virtualenv at ~/workspace/ai" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="$USER_HOME$/workspace/ai/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/workspace/ai/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/workspace/ai/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/workspace/ai/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1888856411" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.5 virtualenv at ~/workspace/spark_env" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="$USER_HOME$/workspace/spark_env/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/workspace/spark_env/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/workspace/spark_env/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/workspace/spark_env/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1739022259" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.5 (ssh://yanshan@10.8.8.21:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="ssh://yanshan@10.8.8.21:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="10.8.8.21" PORT="22" USERNAME="yanshan" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/yanshan/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.3 (ssh://yanshan@10.8.8.21:22/usr/local/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="ssh://yanshan@10.8.8.21:22/usr/local/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/1961014443/249573926" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/1961014443/643464287" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/1961014443/-1845054326" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/1961014443" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="10.8.8.21" PORT="22" USERNAME="yanshan" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/local/bin/python3" HELPERS_PATH="/home/yanshan/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/1961014443/249573926" remote-root="/usr/local/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/1961014443/643464287" remote-root="/usr/local/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/1961014443/-1845054326" remote-root="/usr/local/lib/python3.5/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.3 (sftp://yanshan@10.8.8.21:22/usr/local/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="undefined" />
+      <homePath value="sftp://yanshan@10.8.8.21:22/usr/local/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1851834876/249573926" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1851834876/643464287" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1851834876/-1845054326" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1851834876" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="9de1e1df-a33e-41a0-9706-90a94b816834" WEB_SERVER_CONFIG_NAME="server_21" WEB_SERVER_CREDENTIALS_ID="sftp://yanshan@10.8.8.21:22" INTERPRETER_PATH="/usr/local/bin/python3" HELPERS_PATH="/home/yanshan/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="undefined">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1851834876/249573926" remote-root="/usr/local/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1851834876/643464287" remote-root="/usr/local/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-1851834876/-1845054326" remote-root="/usr/local/lib/python3.5/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>

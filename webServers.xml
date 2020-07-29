@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2583e6c5-2021-4ba9-867f-154d6d09f596" name="server_111" url="http://10.8.8.111">
+        <fileTransfer host="10.8.8.111" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/master/yanshan" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

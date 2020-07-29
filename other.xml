@@ -1,0 +1,28 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/workspace/django_test/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/micro_service/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/spark_env/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/workspace/test_dp/bin/python" value="false" />
+        <entry key="sftp://master@10.8.8.111:22/usr/bin/python3" value="false" />
+        <entry key="ssh://master@10.8.8.111:22/bin/python3" value="false" />
+        <entry key="ssh://master@10.8.8.111:22/usr/bin/python3" value="false" />
+        <entry key="ssh://yanshan@10.8.8.21:22/usr/local/bin/python3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/workspace/django_test/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/micro_service/bin/python" value="false" />
+        <entry key="$USER_HOME$/workspace/spark_env/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/workspace/test_dp/bin/python" value="false" />
+        <entry key="sftp://master@10.8.8.111:22/usr/bin/python3" value="false" />
+        <entry key="ssh://master@10.8.8.111:22/bin/python3" value="false" />
+        <entry key="ssh://master@10.8.8.111:22/usr/bin/python3" value="false" />
+        <entry key="ssh://yanshan@10.8.8.21:22/usr/local/bin/python3" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
